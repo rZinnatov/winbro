@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinBro.FileSearcher", "WinBro.FileSearcher\WinBro.FileSearcher.csproj", "{A022DF09-95FB-4DC3-91A1-D5F175808119}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinBro.WinForms", "WinBro.WinForms\WinBro.WinForms.csproj", "{78273E17-0158-49FB-B702-839326BE407A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinBro.Core", "WinBro.Core\WinBro.Core.csproj", "{A8A561F1-E005-4739-B458-3136373539B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A022DF09-95FB-4DC3-91A1-D5F175808119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A022DF09-95FB-4DC3-91A1-D5F175808119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A022DF09-95FB-4DC3-91A1-D5F175808119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A022DF09-95FB-4DC3-91A1-D5F175808119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78273E17-0158-49FB-B702-839326BE407A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78273E17-0158-49FB-B702-839326BE407A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78273E17-0158-49FB-B702-839326BE407A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78273E17-0158-49FB-B702-839326BE407A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8A561F1-E005-4739-B458-3136373539B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8A561F1-E005-4739-B458-3136373539B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8A561F1-E005-4739-B458-3136373539B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8A561F1-E005-4739-B458-3136373539B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
